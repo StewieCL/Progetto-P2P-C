@@ -1,2 +1,2 @@
 # Progetto-P2P-C
-Progetto di una rete di processi con interfaccia a linea di comando che comunicano tra loro per scambiarsi informazioni 
+Progettettazione di una rete di processi con interfaccia a linea di comando che comunicano tra loro in modalità peer-to-peer per scambiarsi informazioni
